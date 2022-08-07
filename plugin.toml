@@ -1,0 +1,25 @@
+name = "ClearDeck"
+version = "1.0.0"
+link = "TODO"
+source = "TODO"
+min-crankshaft-version = "0.2.2"
+
+[author]
+name = "ZeroPoke"
+link = "zeropoke.net"
+
+[entrypoints]
+
+	[entrypoints.desktop]
+	library = true
+	menu = true
+
+	[entrypoints.deck]
+	library = true
+	menu = true
+	quick-access = false
+
+[store]
+description = """
+Removes the blur and background when opening the MainMenu and the Quick Acess Menu.
+"""
