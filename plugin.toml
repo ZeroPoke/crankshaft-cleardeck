@@ -1,12 +1,12 @@
 name = "ClearDeck"
 version = "1.0.0"
-link = "TODO"
-source = "TODO"
+link = "https://github.com/ZeroPoke/crankshaft-cleardeck"
+source = "https://github.com/ZeroPoke/crankshaft-cleardeck"
 min-crankshaft-version = "0.2.2"
 
 [author]
 name = "ZeroPoke"
-link = "zeropoke.net"
+link = "https://github.com/ZeroPoke/"
 
 [entrypoints]
 
