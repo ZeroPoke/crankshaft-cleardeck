@@ -37,6 +37,10 @@ function InjectClearDeck() {
 	.mainmenu_Container_3vzvO.mainmenu_Open_3apLK {
 		background-color: rgba(0,0,0,0) !important;
 	}
+
+	.header_Header_1E_SL {
+		--gamepadui-header-background-opacity: 0 !important;
+	}
         `;
 
      // add it to the head
